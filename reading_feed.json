@@ -1,0 +1,61 @@
+{
+  "source": "News by Levels public reading API",
+  "generated_at": "2026-11-08T00:00:00Z",
+  "items": [
+    {
+      "title": "Undersea Neutrino Study Puts Limits on Possible New Physics",
+      "topic": "Science",
+      "summary": "The test found no sign of the change it sought.",
+      "date_published": "2026-11-07T19:02:42+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-3/"
+      }
+    },
+    {
+      "title": "Ancient Wooden Wells Found Beside a Modern Water Project",
+      "topic": "Culture",
+      "summary": "Wet ground helped protect the wood.",
+      "date_published": "2026-11-07T19:02:41+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-3/"
+      }
+    },
+    {
+      "title": "Barry Leads Everton Comeback as Moyes Equals Club Record",
+      "topic": "Sport",
+      "summary": "Everton beat Coventry 3–1 after falling behind.",
+      "date_published": "2026-11-07T19:02:39+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-3/"
+      }
+    },
+    {
+      "title": "Netflix Announces Stranger Things Prequel Other Worlds for 2028",
+      "topic": "Entertainment",
+      "summary": "Other Worlds will tell an earlier story with new characters.",
+      "date_published": "2026-11-07T19:02:38+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-1/",
+        "2": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-2/",
+        "3": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-3/"
+      }
+    },
+    {
+      "title": "OpenAI Introduces a Security Model With Restricted Access",
+      "topic": "Technology",
+      "summary": "OpenAI has introduced a tool for approved security work.",
+      "date_published": "2026-11-07T19:02:37+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-3/"
+      }
+    }
+  ]
+}

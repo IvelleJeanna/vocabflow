@@ -1,0 +1,11 @@
+{
+  "name": "VocabFlow — English Vocabulary",
+  "short_name": "VocabFlow",
+  "description": "Flashcards, spaced repetition, reading and linear writing practice.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#4f5ed7",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
