@@ -35,6 +35,49 @@
 @media(max-width:900px){.collection-groups{grid-template-columns:1fr}.library-filters{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.collection-cards{grid-template-columns:1fr}.library-filters{grid-template-columns:1fr 1fr}.word-row{flex-direction:column}.word-actions{width:100%;justify-content:flex-end}.collection-checks{grid-template-columns:1fr}.library-tools{width:100%}.library-tools .btn{flex:1}}
 
+/* VocabFlow – Full Vocabulary Library integrated page */
+.vlib-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px;margin-bottom:14px}
+.vlib-stat{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 16px}
+.vlib-stat strong{display:block;font-size:25px;letter-spacing:-.6px;margin:2px 0}
+.vlib-stat span{font-size:11px;color:var(--muted)}
+.vlib-layout{display:grid;grid-template-columns:255px minmax(0,1fr);gap:14px;align-items:start}
+.vlib-panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:15px;min-width:0}
+.vlib-panel h3{margin:0 0 10px;font-size:14px}
+.vlib-field{display:flex;flex-direction:column;gap:6px;margin-bottom:11px}
+.vlib-field label{font-size:11px;color:#58657a;font-weight:700}
+.vlib-field select,.vlib-field input{width:100%;border:1px solid #dfe5ee;border-radius:11px;padding:10px 11px;background:#fff;color:var(--ink);font:inherit;font-size:12px;outline:none}
+.vlib-field select:focus,.vlib-field input:focus{border-color:#8b98f3;box-shadow:0 0 0 3px #465bd814}
+.vlib-pack-list{display:grid;gap:7px;max-height:440px;overflow:auto;padding-right:2px}
+.vlib-pack-btn{width:100%;border:1px solid var(--line);border-radius:11px;background:#fbfcff;color:var(--ink);padding:10px;text-align:left;font:inherit;font-size:12px;line-height:1.4}
+.vlib-pack-btn:hover,.vlib-pack-btn.active{border-color:#9ba7f2;background:var(--primary2);color:var(--primary)}
+.vlib-pack-btn small{display:block;color:var(--muted);font-size:10px;margin-top:3px}
+.vlib-toolbar{display:grid;grid-template-columns:minmax(0,1fr) 145px 145px;gap:8px;margin:0 0 12px}
+.vlib-toolbar input,.vlib-toolbar select{width:100%;min-width:0;border:1px solid #dfe5ee;border-radius:11px;padding:10px 11px;background:#fff;color:var(--ink);font:inherit;font-size:12px;outline:none}
+.vlib-toolbar input:focus,.vlib-toolbar select:focus{border-color:#8b98f3;box-shadow:0 0 0 3px #465bd814}
+.vlib-topline{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px}
+.vlib-topline h3{font-size:16px;margin:0 0 3px}
+.vlib-muted{color:var(--muted);font-size:11px;line-height:1.5}
+.vlib-badge{display:inline-block;border-radius:99px;background:var(--primary2);color:var(--primary);padding:5px 9px;font-size:10px;font-weight:750;white-space:nowrap}
+.vlib-progress{height:7px;background:#edf0f5;border-radius:99px;overflow:hidden;margin:8px 0 6px}
+.vlib-progress>i{display:block;height:100%;width:0;background:var(--primary);border-radius:99px;transition:width .2s}
+.vlib-flash{min-height:250px;display:flex;align-items:center;justify-content:center;text-align:center;padding:25px;cursor:pointer;user-select:none;background:linear-gradient(145deg,#fff,#f4f5ff);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow);outline:none;white-space:pre-line}
+.vlib-flash:focus-visible{box-shadow:0 0 0 3px #465bd82a,var(--shadow)}
+.vlib-flash-side{font-size:10px;font-weight:750;letter-spacing:.7px;color:#8792a5;margin-bottom:10px}
+.vlib-term{font-size:clamp(23px,3.4vw,33px);font-weight:850;letter-spacing:-.7px;line-height:1.25;overflow-wrap:anywhere}
+.vlib-flash-sub{color:var(--muted);font-size:12px;margin-top:11px;line-height:1.6;overflow-wrap:anywhere}
+.vlib-flash-sub .vlib-meaning{font-size:20px;font-weight:800;color:var(--primary)}
+.vlib-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:7px;margin:11px 0 15px}
+.vlib-tablewrap{overflow:auto;margin-top:10px}
+.vlib-table{width:100%;border-collapse:collapse;font-size:12px}
+.vlib-table th,.vlib-table td{text-align:left;border-bottom:1px solid var(--line);padding:9px 8px;vertical-align:top}
+.vlib-table th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
+.vlib-table td button{padding:6px 9px;font-size:10px}
+.vlib-notice{font-size:11px;color:#68758a;background:#f7f8fc;border:1px solid var(--line);border-radius:11px;padding:10px 12px;margin-top:12px;line-height:1.55}
+.vlib-empty{padding:22px;text-align:center;color:var(--muted);font-size:12px}
+.vlib-footer{font-size:10px;color:#9aa3b2;margin:14px 0 2px}
+@media(max-width:1000px){.vlib-layout{grid-template-columns:220px minmax(0,1fr)}.vlib-toolbar{grid-template-columns:1fr 1fr}.vlib-toolbar input{grid-column:1/-1}}
+@media(max-width:760px){.vlib-layout{grid-template-columns:1fr}.vlib-pack-list{max-height:230px}.vlib-stats{gap:8px}.vlib-stat{padding:11px}}
+@media(max-width:520px){.vlib-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.vlib-stat strong{font-size:20px}.vlib-stat span{font-size:9px}.vlib-toolbar{grid-template-columns:1fr 1fr}.vlib-toolbar input{grid-column:1/-1}.vlib-topline{align-items:flex-start}.vlib-flash{min-height:220px;padding:18px}}
 </style>
 </head>
 <body>
@@ -45,11 +88,7 @@
 <button class="nav-btn active" data-page="dashboard"><span class="nav-ico">▦</span>Tổng quan</button>
 <button class="nav-btn" data-page="study"><span class="nav-ico">▣</span>Flashcard & SRS</button>
 <button class="nav-btn" data-page="library"><span class="nav-ico">▤</span>Kho từ vựng</button>
- <a href="vocabulary-library.html"
-   style="display:flex; align-items:center; gap:10px; width:100%; box-sizing:border-box; padding:12px 14px; border-radius:10px; color:inherit; text-decoration:none; font:inherit;">
-  <span class="nav-ico">📚</span>Kho từ vựng đầy đủ
-</a>
-<button class="nav-btn" data-page="quiz"><span class="nav-ico">✎</span>Kiểm tra nhanh</button>
+<button class="nav-btn" data-page="full-library"><span class="nav-ico">📚</span>Kho từ vựng đầy đủ</button><button class="nav-btn" data-page="quiz"><span class="nav-ico">✎</span>Kiểm tra nhanh</button>
 <button class="nav-btn" data-page="feed"><span class="nav-ico">🌐</span>Bài đọc mới</button>
 <button class="nav-btn" data-page="reading"><span class="nav-ico">▧</span>Reading Lab</button>
 <button class="nav-btn" data-page="linear"><span class="nav-ico">➜</span>Linear Writing</button>
@@ -98,6 +137,71 @@
   <div class="library-toolbar"><span class="sub" id="libraryCount">0 mục từ</span><button class="btn secondary small" id="openBulkImport">⇧ Nhập danh sách hàng loạt</button></div>
   <div class="word-list" id="wordList"></div>
 </div>
+</section>
+<!-- VocabFlow – Full Vocabulary Library integrated page -->
+<section class="page" id="page-full-library">
+  <div class="page-head">
+    <div>
+      <h2>Kho từ vựng đầy đủ</h2>
+      <p>Học theo giáo trình, mục tiêu THPT, IELTS, CEFR và các chủ đề. Trang này dùng chung giao diện và thanh điều hướng VocabFlow.</p>
+    </div>
+    <button class="btn secondary" id="vlibBack">← Về tổng quan</button>
+  </div>
+
+  <div class="vlib-stats">
+    <div class="vlib-stat"><strong id="vlibStatPacks">—</strong><span>Bộ học nhỏ</span></div>
+    <div class="vlib-stat"><strong id="vlibStatEntries">—</strong><span>Mục học</span></div>
+    <div class="vlib-stat"><strong id="vlibStatLearned">0</strong><span>Đã đánh dấu đã nhớ</span></div>
+  </div>
+
+  <div class="vlib-layout">
+    <aside class="vlib-panel">
+      <h3>Chọn bộ từ</h3>
+      <div class="vlib-field"><label for="vlibCollection">Bộ lớn</label><select id="vlibCollection"></select></div>
+      <div class="vlib-field"><label for="vlibTopic">Nhóm chủ đề</label><select id="vlibTopic"></select></div>
+      <div class="vlib-pack-list" id="vlibPacks"><div class="vlib-empty">Đang tải danh sách bộ từ…</div></div>
+      <div class="vlib-notice">Tiến độ của thư viện đầy đủ được lưu riêng trên trình duyệt, không ghi đè tiến độ Flashcard & SRS trong VocabFlow.</div>
+    </aside>
+
+    <section class="vlib-panel">
+      <div class="vlib-topline">
+        <div><h3 id="vlibPackTitle">Đang tải dữ liệu…</h3><div class="vlib-muted" id="vlibPackMeta"></div></div>
+        <span class="vlib-badge" id="vlibCountBadge">—</span>
+      </div>
+      <div class="vlib-toolbar">
+        <input id="vlibSearch" placeholder="Tìm từ, cụm từ hoặc nghĩa tiếng Việt…" aria-label="Tìm từ vựng">
+        <select id="vlibLevel" aria-label="Lọc theo CEFR"><option value="">Tất cả CEFR</option><option>A1</option><option>A2</option><option>B1</option><option>B2</option><option>C1</option><option>C2</option></select>
+        <select id="vlibKind" aria-label="Lọc theo loại mục"><option value="">Tất cả loại mục</option><option value="vocabulary">Từ vựng</option><option value="collocation">Collocation</option><option value="academic_phrase">Cụm học thuật</option></select>
+      </div>
+      <div class="vlib-progress"><i id="vlibProgressBar"></i></div>
+      <div class="vlib-muted" id="vlibProgressText"></div>
+      <div class="vlib-flash" id="vlibFlash" role="button" tabindex="0" aria-label="Nhấn để lật flashcard">
+        <div>
+          <div class="vlib-flash-side" id="vlibFlashSide">MẶT TRƯỚC · NHẤN ĐỂ LẬT</div>
+          <div class="vlib-term" id="vlibFlashTerm">Đang tải…</div>
+          <div class="vlib-flash-sub" id="vlibFlashSub"></div>
+        </div>
+      </div>
+      <div class="vlib-actions">
+        <button class="btn secondary small" id="vlibPrev">← Trước</button>
+        <button class="btn small" id="vlibFlip">Lật thẻ</button>
+        <button class="btn secondary small" id="vlibNext">Tiếp →</button>
+        <button class="btn small" id="vlibKnown">✓ Đã nhớ</button>
+      </div>
+      <div class="vlib-topline">
+        <span class="vlib-muted" id="vlibItemCounter"></span>
+        <button class="btn secondary small" id="vlibResetFilter">Xóa bộ lọc</button>
+      </div>
+      <div class="vlib-tablewrap">
+        <table class="vlib-table">
+          <thead><tr><th>Từ / cụm từ</th><th>Loại</th><th>CEFR*</th><th>Nghĩa tiếng Việt</th><th></th></tr></thead>
+          <tbody id="vlibRows"><tr><td colspan="5" class="vlib-empty">Đang tải dữ liệu…</td></tr></tbody>
+        </table>
+      </div>
+      <div class="vlib-notice">* CEFR trong gói dữ liệu là mức tham khảo để phân luồng học. IPA chưa được tự điền khi chưa có đối chiếu từ điển đáng tin cậy. Hãy học từ cùng ngữ cảnh và kiểm tra lại thông tin quan trọng với nguồn đáng tin cậy.</div>
+    </section>
+  </div>
+  <div class="vlib-footer">VocabFlow · Kho từ vựng đầy đủ · Dữ liệu thư viện được tải từ vocabulary-library.json</div>
 </section>
 <section class="page" id="page-quiz">
 <div class="page-head"><div><h2>Kiểm tra nhanh</h2><p>Chủ động truy xuất từ trong trí nhớ, không chỉ nhận diện khi nhìn thấy đáp án.</p></div></div>
@@ -276,6 +380,142 @@ $('dailyGoal').value=data.settings.dailyNew||10;$('saveSettings').onclick=()=>{c
 // Boot
 renderDashboard();renderCollectionSelects();renderLibrary();renderLinear();renderReadingHistory();renderSavedReadings();loadFeed();
 if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){window.addEventListener('load',()=>navigator.serviceWorker.register('./sw.js').catch(()=>{}))}
+})();
+</script>
+<script>
+/* VocabFlow – Full Vocabulary Library page logic */
+(()=>{
+  'use strict';
+  const progressKey='vocabflow_library_progress_v1';
+  const $=id=>document.getElementById(id);
+  let LIB=null,currentPack=null,filtered=[],index=0,flipped=false,progress={},initialized=false,loading=false;
+
+  function loadProgress(){
+    try{progress=JSON.parse(localStorage.getItem(progressKey)||'{}');if(!progress||typeof progress!=='object'||Array.isArray(progress))progress={};}
+    catch{progress={};}
+  }
+  function learnedCount(){return Object.keys(progress).filter(k=>progress[k]).length;}
+  function saveProgress(){
+    try{localStorage.setItem(progressKey,JSON.stringify(progress));}
+    catch(e){console.warn('Không thể lưu tiến độ kho từ vựng:',e);}
+    $('vlibStatLearned').textContent=learnedCount();
+  }
+  function escapeHtml(v){return String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+  function typeName(t){return ({vocabulary:'Từ vựng',collocation:'Collocation',academic_phrase:'Cụm học thuật'})[t]||t||'Khác';}
+  function currentEntries(){return LIB.entries.filter(x=>currentPack && currentPack.entries.includes(x.id));}
+
+  function setCollectionOptions(){
+    const col=$('vlibCollection');col.innerHTML='';
+    (LIB.collections||[]).forEach(c=>{const o=document.createElement('option');o.value=c.id;o.textContent=c.name;col.append(o);});
+    col.value=LIB.collections?.[0]?.id||'';setTopicOptions();
+  }
+  function setTopicOptions(){
+    const c=LIB.collections.find(x=>x.id===$('vlibCollection').value);
+    const topic=$('vlibTopic');topic.innerHTML='';
+    (c?.subcollections||[]).forEach(x=>{const o=document.createElement('option');o.value=x.id;o.textContent=x.name;topic.append(o);});
+    topic.value=c?.subcollections?.[0]?.id||'';renderPacks();
+  }
+  function packsForSelection(){
+    const c=LIB.collections.find(x=>x.id===$('vlibCollection').value);
+    const sub=c?.subcollections?.find(x=>x.id===$('vlibTopic').value);
+    const ids=sub?.packs||[];
+    return LIB.packs.filter(p=>ids.includes(p.id));
+  }
+  function renderPacks(){
+    const box=$('vlibPacks');box.innerHTML='';const arr=packsForSelection();
+    arr.forEach(p=>{
+      const b=document.createElement('button');b.type='button';b.className='vlib-pack-btn';b.dataset.packId=p.id;
+      b.innerHTML=`${escapeHtml(p.title)}<small>${Number(p.entry_count)||0} mục · ${escapeHtml(p.level_range||'')}</small>`;
+      b.addEventListener('click',()=>selectPack(p.id));box.append(b);
+    });
+    if(!arr.length){currentPack=null;filtered=[];$('vlibPackTitle').textContent='Chưa có bộ học trong nhóm này';$('vlibPackMeta').textContent='';renderAll();return;}
+    if(!arr.some(p=>p.id===currentPack?.id))selectPack(arr[0].id);else renderPacksActive();
+  }
+  function renderPacksActive(){
+    document.querySelectorAll('#vlibPacks [data-pack-id]').forEach(b=>b.classList.toggle('active',b.dataset.packId===currentPack?.id));
+  }
+  function selectPack(id){
+    currentPack=LIB.packs.find(p=>p.id===id)||null;index=0;flipped=false;renderPacksActive();applyFilters();
+  }
+  function applyFilters(){
+    if(!currentPack){filtered=[];renderAll();return;}
+    const q=$('vlibSearch').value.trim().toLowerCase(),level=$('vlibLevel').value,kind=$('vlibKind').value;
+    filtered=currentEntries().filter(x=>(!q||[x.term,x.meaning_vi,x.example_en,x.example_vi].join(' ').toLowerCase().includes(q))&&(!level||x.cefr===level)&&(!kind||x.type===kind));
+    index=Math.min(index,Math.max(0,filtered.length-1));flipped=false;renderAll();
+  }
+  function renderAll(){
+    if(!currentPack){
+      $('vlibPackTitle').textContent='Không có bộ từ để hiển thị';$('vlibPackMeta').textContent='Hãy chọn nhóm khác.';$('vlibCountBadge').textContent='0 mục';
+      $('vlibItemCounter').textContent='';$('vlibProgressText').textContent='';$('vlibProgressBar').style.width='0%';
+      $('vlibPrev').disabled=true;$('vlibNext').disabled=true;$('vlibKnown').disabled=true;
+      renderFlash();renderRows();return;
+    }
+    $('vlibPackTitle').textContent=currentPack.title;
+    $('vlibPackMeta').textContent=[currentPack.category,currentPack.subcategory,currentPack.level_range].filter(Boolean).join(' · ');
+    $('vlibCountBadge').textContent=filtered.length+' mục hiển thị';
+    $('vlibItemCounter').textContent=filtered.length?`Mục ${index+1}/${filtered.length}`:'Không có mục phù hợp';
+    const entries=currentEntries(),knownCount=entries.filter(x=>progress[x.id]).length,total=Number(currentPack.entry_count)||entries.length;
+    $('vlibProgressText').textContent=`Đã nhớ ${knownCount} / ${total} mục trong bộ này`;
+    $('vlibProgressBar').style.width=(total?Math.min(100,knownCount/total*100):0)+'%';
+    $('vlibPrev').disabled=!filtered.length||index<=0;$('vlibNext').disabled=!filtered.length||index>=filtered.length-1;$('vlibKnown').disabled=!filtered.length;
+    renderFlash();renderRows();
+  }
+  function renderFlash(){
+    const x=filtered[index];
+    if(!x){$('vlibFlashSide').textContent='';$('vlibFlashTerm').textContent='Không tìm thấy mục phù hợp';$('vlibFlashSub').textContent='Thử xóa bộ lọc hoặc tìm kiếm từ khác.';return;}
+    if(!flipped){$('vlibFlashSide').textContent='MẶT TRƯỚC · NHẤN ĐỂ LẬT';$('vlibFlashTerm').textContent=x.term;$('vlibFlashSub').textContent=typeName(x.type)+' · '+(x.cefr||'Chưa xác định');}
+    else{$('vlibFlashSide').textContent='MẶT SAU';$('vlibFlashTerm').textContent=x.meaning_vi||'Chưa có nghĩa tiếng Việt';$('vlibFlashSub').textContent=[x.example_en,x.example_vi].filter(Boolean).join('\n');}
+  }
+  function renderRows(){
+    const body=$('vlibRows');body.innerHTML='';
+    if(!filtered.length){body.innerHTML='<tr><td colspan="5" class="vlib-empty">Không có mục phù hợp với bộ lọc hiện tại.</td></tr>';return;}
+    filtered.forEach((x,i)=>{
+      const tr=document.createElement('tr');
+      tr.innerHTML=`<td><strong>${escapeHtml(x.term)}</strong>${progress[x.id]?' <span title="Đã nhớ" style="color:var(--green)">✓</span>':''}</td><td>${escapeHtml(typeName(x.type))}</td><td>${escapeHtml(x.cefr||'—')}</td><td>${escapeHtml(x.meaning_vi||'')}</td><td><button type="button" class="btn secondary small" data-vlib-index="${i}">Học</button></td>`;
+      tr.querySelector('button').addEventListener('click',()=>{index=i;flipped=false;renderAll();$('vlibFlash').scrollIntoView({behavior:'smooth',block:'center'});});body.append(tr);
+    });
+  }
+  function flip(){if(!filtered.length)return;flipped=!flipped;renderFlash();}
+  function move(d){if(!filtered.length)return;index=Math.max(0,Math.min(filtered.length-1,index+d));flipped=false;renderAll();}
+  function markKnown(){
+    const x=filtered[index];if(!x)return;progress[x.id]=true;saveProgress();renderAll();
+    if(index<filtered.length-1)move(1);
+  }
+  function resetFilters(){ $('vlibSearch').value='';$('vlibLevel').value='';$('vlibKind').value='';applyFilters(); }
+
+  async function init(){
+    if(initialized){if(LIB)renderAll();return;}
+    if(loading)return;loading=true;loadProgress();
+    try{
+      const response=await fetch('./vocabulary-library.json',{cache:'no-cache'});
+      if(!response.ok)throw new Error('HTTP '+response.status);
+      LIB=await response.json();
+      if(!LIB||!Array.isArray(LIB.entries)||!Array.isArray(LIB.packs)||!Array.isArray(LIB.collections))throw new Error('Cấu trúc vocabulary-library.json không đúng.');
+      $('vlibStatPacks').textContent=LIB.stats?.packs??LIB.packs.length;
+      $('vlibStatEntries').textContent=LIB.stats?.entries??LIB.entries.length;
+      saveProgress();setCollectionOptions();initialized=true;
+    }catch(e){
+      $('vlibPackTitle').textContent='Không tải được dữ liệu kho từ';
+      $('vlibPackMeta').textContent='Hãy kiểm tra vocabulary-library.json có nằm cùng thư mục với index.html trên GitHub Pages không.';
+      $('vlibFlashTerm').textContent='Lỗi tải dữ liệu';$('vlibFlashSub').textContent=e.message;
+      $('vlibPacks').innerHTML='<div class="vlib-empty">Không tải được danh sách bộ từ.</div>';
+    }finally{loading=false;}
+  }
+
+  $('vlibCollection').addEventListener('change',setTopicOptions);
+  $('vlibTopic').addEventListener('change',renderPacks);
+  $('vlibSearch').addEventListener('input',applyFilters);
+  $('vlibLevel').addEventListener('change',applyFilters);
+  $('vlibKind').addEventListener('change',applyFilters);
+  $('vlibFlash').addEventListener('click',flip);
+  $('vlibFlash').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flip();}});
+  $('vlibFlip').addEventListener('click',flip);
+  $('vlibPrev').addEventListener('click',()=>move(-1));
+  $('vlibNext').addEventListener('click',()=>move(1));
+  $('vlibKnown').addEventListener('click',markKnown);
+  $('vlibResetFilter').addEventListener('click',resetFilters);
+  $('vlibBack').addEventListener('click',()=>document.querySelector('.nav-btn[data-page="dashboard"]')?.click());
+  document.querySelector('.nav-btn[data-page="full-library"]')?.addEventListener('click',init);
 })();
 </script>
 </body></html>
