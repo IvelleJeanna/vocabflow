@@ -1,4 +1,4 @@
-const CACHE = 'vocabflow-shell-v1';
+const CACHE = 'vocabflow-shell-v2';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './reading_feed.json'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));

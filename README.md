@@ -1,52 +1,66 @@
-# VocabFlow — bản hoàn thiện thử nghiệm
+# VocabFlow — phiên bản nâng cấp bộ từ vựng
 
-## Có gì trong phiên bản này?
-- Flashcard 2 mặt: click vào thẻ (hoặc Enter/Space) để lật, có hiệu ứng 3D.
-- Spaced Repetition 4 mức: Quên / Khó / Nhớ / Dễ.
-- Dashboard: từ mới hôm nay, lượt ôn, tổng từ, từ đã vững, streak và biểu đồ 7 ngày.
-- Kho từ vựng: tìm kiếm, lọc, thêm, sửa, xóa; đọc phát âm bằng giọng có sẵn trong trình duyệt.
-- Kiểm tra nhanh trắc nghiệm hai chiều Anh → Việt và Việt → Anh.
-- Reading Lab: dán bài đọc/đoạn trích để tìm từ có ích và lưu câu ngữ cảnh.
-- Bài đọc mới: danh sách bài đọc được lấy từ API công khai của News by Levels, có các link Level 1–3.
-- Linear Writing: dùng từ trong câu, chuỗi ý tưởng và đoạn ngắn.
-- Sao lưu/khôi phục JSON, mục tiêu từ mới mỗi ngày.
-- PWA: có thể cài như ứng dụng và mở offline sau khi xuất bản qua HTTPS.
+## Có gì mới?
+
+Phiên bản này mở rộng Kho từ vựng thành hệ thống quản lý bộ học, đồng thời giữ lại các tính năng hiện có (Flashcard, SRS, Quiz, Reading Lab, bài đọc, Linear Writing, sao lưu/khôi phục và PWA).
+
+- Có sẵn các khung bộ: Global Success 12 (Unit 1–10), THPT lớp 10–12, IELTS, TOEIC, Academic English.
+- Có bộ CEFR A1, A2, B1, B2, C1, C2 và các bộ theo chủ đề.
+- Mỗi mục từ có thể được gán vào nhiều bộ cùng lúc.
+- Phân loại theo dạng: từ vựng, collocation, phrasal verb, idiom, phrase/expression, word family, academic phrase.
+- Thêm mục từ với CEFR, nguồn học, Unit, chủ đề, IPA, nghĩa, collocations, họ từ, ví dụ và ghi chú.
+- Tạo bộ cá nhân, lọc kho theo bộ/cấp độ/dạng/trạng thái học.
+- Học flashcard theo từng bộ; làm quiz trên toàn kho hoặc một bộ.
+- Nhập hàng loạt bằng TSV: Từ → Nghĩa → CEFR → Dạng → Chủ đề → Ví dụ → Collocations. Có nút tải tệp mẫu ngay trong ứng dụng.
+- Tự động nâng cấp dữ liệu localStorage phiên bản cũ: từ đã lưu, lịch sử ôn tập, bài đọc và bài viết được giữ nguyên; trường phân loại mới được bổ sung mặc định.
+
+## Lưu ý về nội dung từ vựng
+
+Các bộ Global Success 12, THPT, IELTS, CEFR và chủ đề được tạo sẵn dưới dạng **khung phân loại**, không phải danh sách từ vựng đầy đủ đã được xác minh. Một số mục mẫu cũ trong VocabFlow được gắn nhãn B2 để minh họa; CEFR có thể thay đổi theo ngữ cảnh và nguồn. Khi bổ sung bộ sách/đề thi, hãy đối chiếu với tài liệu gốc. Không nên tự động coi mọi từ trong một chủ đề là cùng cấp độ.
+
+## Cập nhật website GitHub Pages đang có
+
+1. Tải và giải nén `VocabFlow_Upgrade_Package.zip`.
+2. Mở thư mục `vocabflow_package` vừa giải nén.
+3. Sao chép **toàn bộ nội dung bên trong** thư mục này, bao gồm thư mục ẩn `.github`, vào thư mục repository `vocabflow` trên máy tính. Không đặt thêm một lớp thư mục `vocabflow_package` trong repository.
+4. Khi Windows hỏi có ghi đè các tệp trùng tên không, chọn **Replace the files in the destination**. Đây là cập nhật mã nguồn, không phải xóa dữ liệu học trong trình duyệt.
+5. Mở GitHub Desktop. Repository `vocabflow` sẽ hiển thị các thay đổi. Kiểm tra danh sách tệp, nhập Summary: `Upgrade vocabulary collections and filters`, chọn **Commit to main**, sau đó **Push origin**.
+6. Mở website GitHub Pages và tải lại mạnh bằng `Ctrl + F5`. Nếu giao diện cũ còn xuất hiện, đóng tab website rồi mở lại; service worker đã được tăng phiên bản cache để trình duyệt tải bản mới.
+
+## Quan trọng: sao lưu trước khi cập nhật
+
+Trước khi thay mã nguồn, mở website hiện tại → bấm **Xuất dữ liệu** ở góc trên để tải bản JSON sao lưu. Bản nâng cấp dùng cùng khóa lưu trữ `vocabflow_v1`, có cơ chế bổ sung trường mới và giữ dữ liệu học đang có. Dù vậy, hãy luôn giữ file JSON dự phòng. Không đưa file backup cá nhân lên repository công khai.
+
+## Sử dụng sau cập nhật
+
+- Vào **Kho từ vựng & bộ học** để duyệt các bộ có sẵn.
+- Chọn **Mở bộ** để lọc các mục từ thuộc bộ; chọn **Học bộ** để tạo phiên flashcard riêng.
+- Chọn **Tạo bộ** để lập bộ riêng.
+- Chọn **Thêm mục từ** để thêm một mục; đánh dấu những bộ mà mục từ đó thuộc về.
+- Chọn **Nhập danh sách hàng loạt** để dán TSV và gán cả loạt từ vào một bộ.
+- Trong **Kiểm tra nhanh**, chọn bộ muốn làm quiz.
 
 ## Chạy thử trên máy
-Mở `index.html` bằng Chrome hoặc Edge. Flashcard, từ vựng, thống kê và luyện viết hoạt động offline. Khi mở trực tiếp bằng `file://`, trình duyệt thường chặn tải `reading_feed.json`; lúc đó trang dùng danh sách mẫu được đóng gói sẵn.
 
-Để thử đầy đủ chức năng tự cập nhật, hãy triển khai lên GitHub Pages theo hướng dẫn dưới đây.
+Mở `index.html` bằng Chrome hoặc Edge. Học từ, flashcard, kho từ, bộ học và quiz có thể chạy cục bộ. Một số chức năng lấy dữ liệu bài đọc cần được chạy qua HTTPS/GitHub Pages.
 
-## Tích hợp bài đọc tự động miễn phí bằng GitHub Actions
+## Những giới hạn hiện tại
 
-Cách này không yêu cầu API key và không cần máy chủ riêng:
-1. Tạo tài khoản GitHub nếu chưa có.
-2. Tạo một repository mới, ví dụ `vocabflow`.
-3. Tải toàn bộ nội dung thư mục này lên repository, giữ nguyên thư mục `.github/workflows/`.
-4. Vào **Settings → Pages**. Chọn **Deploy from a branch**, branch `main`, folder `/ (root)`, rồi Save.
-5. Vào **Actions** và bật workflow nếu GitHub yêu cầu.
-6. Mở workflow **Update reading feed** → **Run workflow** để chạy lần đầu.
-7. Chờ workflow hoàn thành; sau đó mở website GitHub Pages. Hằng ngày workflow được lên lịch lúc 08:17 giờ Việt Nam (01:17 UTC), gọi API, cập nhật `reading_feed.json` và commit dữ liệu mới.
+- Dữ liệu vẫn lưu trong localStorage của từng trình duyệt/thiết bị; chưa có tài khoản hoặc đồng bộ đám mây.
+- Các bộ từ chưa tự tải hàng nghìn mục từ từ sách hoặc nguồn thương mại. Bạn có thể nhập danh sách do mình có quyền sử dụng.
+- CEFR cần được xác định dựa trên từ điển/danh mục đáng tin cậy; nhãn mẫu chỉ để khởi đầu và không thay thế kiểm chứng.
+- Bài đọc tự động vẫn chỉ hiển thị dữ liệu/link nguồn, không tải hay sao chép toàn văn bài báo.
 
-Workflow cũng có thể chạy thủ công từ tab Actions. Nếu không muốn chờ lịch tự động, chọn **Run workflow**. GitHub có thể làm chậm lịch chạy khi hệ thống bận; với repository công khai không có hoạt động trong 60 ngày, lịch tự động có thể bị tắt và cần bật lại trong Actions.
+## Cấu trúc gói
 
-### Tại sao dùng News by Levels?
-- News by Levels công bố RSS và API JSON công khai; API tìm kiếm trả về tối đa 20 bài mỗi yêu cầu, không cần tài khoản hay API key. Mỗi bài có các đường dẫn Level 1, 2, 3.
-- VOA Learning English công bố RSS cho nhiều chuyên mục; bản tích hợp hiện lấy Science & Technology, Education, Health & Lifestyle và Words and Their Stories. Những bài này liên kết thẳng về bài gốc VOA.
-- VocabFlow chỉ lưu tiêu đề, chủ đề, ngày đăng, tóm tắt ngắn trong feed và URL nguồn; không sao chép toàn văn bài báo.
-- Script gọi các feed một lần mỗi ngày, có timeout; nếu không có dữ liệu hợp lệ thì giữ lại file feed cũ thay vì ghi đè bằng danh sách rỗng.
-
-## Giới hạn cần biết
-- Tự động cập nhật danh sách bài đọc và link đọc, không đồng nghĩa tự động tải hoặc sao chép toàn văn bài đọc. Mở nguồn, chọn đoạn trích rồi dán vào Reading Lab để phân tích từ.
-- Các định nghĩa, bản dịch tiếng Việt, IPA và collocations trong kho cần người học bổ sung/kiểm tra. Phiên bản này không gọi AI trả phí.
-- Dữ liệu học tập đang nằm trong trình duyệt (localStorage), không tự đồng bộ sang thiết bị khác. Dùng Xuất/Nhập dữ liệu để chuyển bản sao lưu.
-- Muốn có tài khoản và đồng bộ nhiều thiết bị, cần thêm backend/auth như Supabase; đó là bước phát triển sau.
-
-## Thêm nguồn bài đọc khác
-Mở `update_reading.py`, bổ sung RSS/API hợp pháp vào `VOA_FEEDS` hoặc viết hàm parser riêng, sau đó chuẩn hóa từng bài về cấu trúc:
-`title`, `topic`, `summary`, `date_published`, `reading_urls`, `source_name`.
-Không scrape/paywall hoặc tái xuất bản nội dung nếu điều khoản nguồn không cho phép. Giữ link nguồn và attribution.
-
-
-## Lưu ý về quyền riêng tư khi xuất bản
-GitHub Pages trên gói Free yêu cầu repository công khai. Website được công khai trên Internet, nhưng tiến độ học và từ vựng cá nhân chỉ nằm trong localStorage của trình duyệt; không đưa file JSON sao lưu hoặc dữ liệu cá nhân lên repository.
+```text
+vocabflow_package/
+  index.html
+  reading_feed.json
+  update_reading.py
+  sw.js
+  manifest.webmanifest
+  icon.svg
+  README.md
+  .github/workflows/update-reading.yml
+```
