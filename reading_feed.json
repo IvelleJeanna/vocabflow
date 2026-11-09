@@ -1,7 +1,67 @@
 {
-  "source": "News by Levels public reading API",
-  "generated_at": "2026-11-08T00:00:00Z",
+  "source": "News by Levels public API and VOA Learning English RSS feeds",
+  "generated_at": "2026-11-09T02:18:24Z",
   "items": [
+    {
+      "title": "Nick Harkaway Returns to George Smiley in The Taper Man",
+      "topic": "Culture",
+      "summary": "Nick Harkaway continues the fictional world created by his father.",
+      "date_published": "2026-11-08T13:00:14+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/nick-harkaway-taper-man-publication-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/nick-harkaway-taper-man-publication-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/nick-harkaway-taper-man-publication-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Pope Leo Uses a Border Bridge as a Message of Cooperation",
+      "topic": "World",
+      "summary": "A bridge between two countries helped explain his message.",
+      "date_published": "2026-11-08T13:00:13+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/pope-leo-paysandu-bridge-message-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/pope-leo-paysandu-bridge-message-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/pope-leo-paysandu-bridge-message-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Alcaraz Reaches His First Paris Masters Final",
+      "topic": "Sport",
+      "summary": "He beat Casper Ruud in two sets on Saturday.",
+      "date_published": "2026-11-08T13:00:11+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/alcaraz-ruud-first-paris-final-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/alcaraz-ruud-first-paris-final-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/alcaraz-ruud-first-paris-final-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Previously Uncounted Right Whale Calf Raises Seasonal Total",
+      "topic": "Nature",
+      "summary": "Photos helped researchers identify a baby they had missed.",
+      "date_published": "2026-11-08T13:00:10+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/right-whale-silt-calf-count-canada-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/right-whale-silt-calf-count-canada-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/right-whale-silt-calf-count-canada-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Tesla Plans an Extra Cybertruck Shift Before Ending Production",
+      "topic": "Technology",
+      "summary": "The company wants to fill waiting orders before a planned change.",
+      "date_published": "2026-11-08T13:00:09+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/tesla-extra-cybertruck-shift-before-2027-stop/level-1/",
+        "2": "https://newsbylevels.com/news/tesla-extra-cybertruck-shift-before-2027-stop/level-2/",
+        "3": "https://newsbylevels.com/news/tesla-extra-cybertruck-shift-before-2027-stop/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Undersea Neutrino Study Puts Limits on Possible New Physics",
       "topic": "Science",
@@ -11,7 +71,8 @@
         "1": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/orca-neutrino-lorentz-limits-november-2026/level-3/"
-      }
+      },
+      "source_name": "News by Levels"
     },
     {
       "title": "Ancient Wooden Wells Found Beside a Modern Water Project",
@@ -22,7 +83,8 @@
         "1": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/hampshire-wooden-wells-iron-age-roman-november-2026/level-3/"
-      }
+      },
+      "source_name": "News by Levels"
     },
     {
       "title": "Barry Leads Everton Comeback as Moyes Equals Club Record",
@@ -33,7 +95,8 @@
         "1": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/everton-coventry-barry-comeback-november-2026/level-3/"
-      }
+      },
+      "source_name": "News by Levels"
     },
     {
       "title": "Netflix Announces Stranger Things Prequel Other Worlds for 2028",
@@ -44,7 +107,8 @@
         "1": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-1/",
         "2": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-2/",
         "3": "https://newsbylevels.com/news/stranger-things-other-worlds-prequel-2028/level-3/"
-      }
+      },
+      "source_name": "News by Levels"
     },
     {
       "title": "OpenAI Introduces a Security Model With Restricted Access",
@@ -55,7 +119,321 @@
         "1": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/gpt-6-cyber-security-checks-november-2026/level-3/"
-      }
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "US Hiring Picks Up, but More Workers Want Full-Time Hours",
+      "topic": "Business",
+      "summary": "A new report shows more jobs and more people seeking full-time hours.",
+      "date_published": "2026-11-07T18:52:03+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/us-october-jobs-report-full-time-hours-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/us-october-jobs-report-full-time-hours-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/us-october-jobs-report-full-time-hours-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Nintendo Switch 2 Sales Pass 26 Million as Games Support Profit",
+      "topic": "Technology",
+      "summary": "Nintendo’s new results show how its game machines and games are selling.",
+      "date_published": "2026-11-07T18:52:01+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/nintendo-switch-2-26-million-sales-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/nintendo-switch-2-26-million-sales-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/nintendo-switch-2-26-million-sales-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Alcaraz Saves Two Match Points to Reach Paris Semifinal",
+      "topic": "Sport",
+      "summary": "The Spanish tennis player fought back against Taylor Fritz in Paris.",
+      "date_published": "2026-11-07T18:52:00+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/alcaraz-fritz-two-match-points-paris-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/alcaraz-fritz-two-match-points-paris-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/alcaraz-fritz-two-match-points-paris-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Folding Robot Crawls, Jumps and Grips With Magnetic Control",
+      "topic": "Technology",
+      "summary": "Magnetic forces help a small robot move in different ways.",
+      "date_published": "2026-11-07T18:51:59+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/folding-origami-robot-magnetic-motion-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/folding-origami-robot-magnetic-motion-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/folding-origami-robot-magnetic-motion-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Ocean Colour Offers a Possible Clue to Tiny Plastic Pollution",
+      "topic": "Environment",
+      "summary": "Some Pacific waters look brighter in blue and green.",
+      "date_published": "2026-11-07T18:51:58+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/pacific-ocean-colour-microplastic-clue-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/pacific-ocean-colour-microplastic-clue-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/pacific-ocean-colour-microplastic-clue-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "France's New High-Speed Train Makes Its First Journey",
+      "topic": "World",
+      "summary": "A new fast train left Paris for Marseille on Friday.",
+      "date_published": "2026-11-06T19:00:34+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/france-tgv-m-inaugural-paris-marseille-november-6-2026/level-1/",
+        "2": "https://newsbylevels.com/news/france-tgv-m-inaugural-paris-marseille-november-6-2026/level-2/",
+        "3": "https://newsbylevels.com/news/france-tgv-m-inaugural-paris-marseille-november-6-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Astronauts Complete Space Station Solar Upgrade",
+      "topic": "Science",
+      "summary": "Two astronauts put the last new solar panel on the space station.",
+      "date_published": "2026-11-06T19:00:32+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/astronauts-complete-space-station-solar-upgrade-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/astronauts-complete-space-station-solar-upgrade-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/astronauts-complete-space-station-solar-upgrade-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Hera Spacecraft Sends Close View of Asteroid After DART Test",
+      "topic": "Science",
+      "summary": "The Hera spacecraft has sent a new picture from space.",
+      "date_published": "2026-11-06T19:00:31+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/hera-close-view-didymos-asteroid-dart-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/hera-close-view-didymos-asteroid-dart-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/hera-close-view-didymos-asteroid-dart-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Motorola Details a New Phone With a Sensor for Moving Subjects",
+      "topic": "Technology",
+      "summary": "Motorola says its new phone has a sensor for movement.",
+      "date_published": "2026-11-06T19:00:30+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/motorola-signature-27-action-sensor-phone-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/motorola-signature-27-action-sensor-phone-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/motorola-signature-27-action-sensor-phone-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Olivia Rodrigo Releases Her First Christmas Song",
+      "topic": "Entertainment",
+      "summary": "The singer has made her first Christmas song and a new video.",
+      "date_published": "2026-11-06T19:00:29+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/olivia-rodrigo-first-christmas-single-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/olivia-rodrigo-first-christmas-single-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/olivia-rodrigo-first-christmas-single-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Wilbur and Orville Wright: The First Airplane",
+      "topic": "VOA Learning English",
+      "summary": "Wilbur and Orville Wright quietly developed a powered flying machine that proved heavier-than-air flight was possible more than 120 years ago.",
+      "date_published": "2025-03-17T22:05:00Z",
+      "url": "https://learningenglish.voanews.com/a/wilbur-and-orville-wright-the-first-airplane/7998765.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "'Watching the Grass Grow' Is Not Fun",
+      "topic": "VOA Learning English",
+      "summary": "Spring is an exciting time, but watching grass grow in any season is not something people want to be doing. Find out what it means when people say something is “like watching grass grow.”",
+      "date_published": "2025-03-15T22:05:00Z",
+      "url": "https://learningenglish.voanews.com/a/watching-the-grass-grow-is-not-fun/8003108.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "Barbara McClintock, Geneticist and Nobel Prize Winner",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-14T16:28:15Z",
+      "url": "https://learningenglish.voanews.com/a/8010810.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "What Does It Mean 'To Mushroom'?",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-13T11:11:48Z",
+      "url": "https://learningenglish.voanews.com/a/8008674.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "Methods for Protecting Earth against an Asteroid Strike",
+      "topic": "VOA Learning English",
+      "summary": "This image provided by NASA shows the asteroid Dimorphos, captured by NASA’s DART mission just two seconds before the spacecraft struck its surface, on Sept. 26, 2022. (NASA/Johns Hopkins APL via AP)",
+      "date_published": "2025-03-12T22:00:00Z",
+      "url": "https://learningenglish.voanews.com/a/methods-for-protecting-earth-against-an-asteroid-strike/7989189.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "Private Moon Missions Include Hits and Misses",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-12T19:04:03Z",
+      "url": "https://learningenglish.voanews.com/a/8008422.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "Total Lunar Eclipse to Turn Moon Red",
+      "topic": "VOA Learning English",
+      "summary": "A total lunar eclipse is set to make the moon appear a color between red and orange across the Western Hemisphere. The best views will be Thursday night into Friday morning from places in North America and South America.",
+      "date_published": "2025-03-11T22:00:00Z",
+      "url": "https://learningenglish.voanews.com/a/total-lunar-eclipse-to-turn-moon-red/8005741.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "Containers for Planting Seeds That Cost (Almost) Nothing",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-11T20:25:10Z",
+      "url": "https://learningenglish.voanews.com/a/8007217.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "'Watching the Grass Grow' Is Not Fun",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-11T15:14:12Z",
+      "url": "https://learningenglish.voanews.com/a/8006750.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "Researchers Use New Methods to Date Ancient Skeleton",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-11T13:58:43Z",
+      "url": "https://learningenglish.voanews.com/a/8006527.html",
+      "source_name": "VOA Learning English — Science & Technology"
+    },
+    {
+      "title": "How Physical Therapists Can Prevent Future Health Problems",
+      "topic": "VOA Learning English",
+      "summary": "While many people only see physical therapists while recovering from injuries or surgery, experts say they can also help prevent many health problems if seen on a regular basis.",
+      "date_published": "2025-03-10T22:00:00Z",
+      "url": "https://learningenglish.voanews.com/a/how-physical-therapists-can-prevent-future-health-problems/7921334.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "Green Means Spring and Other Things",
+      "topic": "VOA Learning English",
+      "summary": "Spring in the U.S. means that the landscape is turning green. So, it is a good time to teach some idioms and expressions using the word \"green.\" Some may surprise you. Is having a \"green thumb\" a good thing or something that needs a doctor's care? You will hear all about it in this program.",
+      "date_published": "2025-03-08T22:05:59Z",
+      "url": "https://learningenglish.voanews.com/a/words-and-their-stories-green-idioim-expressions-garden-jealousy/2688277.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "Green Means Spring and Other Things",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-07T15:40:50Z",
+      "url": "https://learningenglish.voanews.com/a/8001669.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "How Daylight Saving Time Affects Health",
+      "topic": "VOA Learning English",
+      "summary": "Much of the United States “springs forward” on Sunday for daylight saving time. Worldwide, many other countries also observe daylight saving time. Health experts say there are ways to ease the time change.",
+      "date_published": "2025-03-06T21:55:00Z",
+      "url": "https://learningenglish.voanews.com/a/how-daylight-savings-time-affects-health/8001173.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "How Daylight Saving Time Affects Health",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-06T18:54:04Z",
+      "url": "https://learningenglish.voanews.com/a/8001397.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "For Healthy Aging, Plan to Exercise Regularly",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2025-03-05T20:24:55Z",
+      "url": "https://learningenglish.voanews.com/a/7999141.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "Grow Your Vocabulary by Learning Root Words",
+      "topic": "VOA Learning English",
+      "summary": "English has been called one the most difficult languages for non-native speakers to learn. One reason is that English has so many rules – and almost as many exceptions of those rules!",
+      "date_published": "2025-03-04T22:00:39Z",
+      "url": "https://learningenglish.voanews.com/a/grow-your-vocabulary-by-learning-root-words/4113426.html",
+      "source_name": "VOA Learning English — Education"
+    },
+    {
+      "title": "Rise in ADHD Cases Raises Questions",
+      "topic": "VOA Learning English",
+      "summary": "More adults are being diagnosed with ADHD. Now, experts debate about whether it has become over-diagnosed.",
+      "date_published": "2025-03-03T22:00:00Z",
+      "url": "https://learningenglish.voanews.com/a/rise-in-adhd-cases-raises-questions/7958876.html",
+      "source_name": "VOA Learning English — Health & Lifestyle"
+    },
+    {
+      "title": "How to 'Dish Up' Something Good",
+      "topic": "VOA Learning English",
+      "summary": "A dish is more than something you put food on. Find out about different uses of the term on this Words and Their Stories program.",
+      "date_published": "2025-03-01T22:05:00Z",
+      "url": "https://learningenglish.voanews.com/a/how-to-dish-up-something-good/7980848.html",
+      "source_name": "VOA Learning English — Words and Their Stories"
+    },
+    {
+      "title": "Learn Prefixes, Suffixes to Expand Your Vocabulary",
+      "topic": "VOA Learning English",
+      "summary": "Learning common prefixes and suffixes can help you expand your English vocabulary.",
+      "date_published": "2025-02-25T22:00:41Z",
+      "url": "https://learningenglish.voanews.com/a/learn-prefixes-and-suffixes-to-expand-your-vocabulary/4140658.html",
+      "source_name": "VOA Learning English — Education"
+    },
+    {
+      "title": "Teachers Use Games for More Enjoyable Learning",
+      "topic": "VOA Learning English",
+      "summary": "Teachers looking for ways to help their students enjoy learning have many tools – games like Wordle that require the use of logic and word knowledge.",
+      "date_published": "2025-02-11T21:59:51Z",
+      "url": "https://learningenglish.voanews.com/a/teachers-use-games-for-more-enjoyable-learning/6474764.html",
+      "source_name": "VOA Learning English — Education"
+    },
+    {
+      "title": "Start New Year by Setting Reasonable Learning Goals",
+      "topic": "VOA Learning English",
+      "summary": "A good way to start the new year is setting reasonable goals for learning English. Learn how goals help guide language learners and give them reasons to continue studying a language.",
+      "date_published": "2024-12-31T22:05:45Z",
+      "url": "https://learningenglish.voanews.com/a/start-the-new-year-by-setting-reasonable-learning-goals-/3637982.html",
+      "source_name": "VOA Learning English — Education"
+    },
+    {
+      "title": "Learning How to Ask Questions",
+      "topic": "VOA Learning English",
+      "summary": "Suzanne Meyer says that students need to practice question-asking activities. Question-asking activities help students to become better language learners. By practicing question-asking activities, students can improve their language skills and develop critical thinking skills.",
+      "date_published": "2024-12-10T22:05:48Z",
+      "url": "https://learningenglish.voanews.com/a/education-tips-improve-critical-thinking-ask-questions/3303557.html",
+      "source_name": "VOA Learning English — Education"
+    },
+    {
+      "title": "Start New Year by Setting Reasonable Learning Goals",
+      "topic": "VOA Learning English",
+      "summary": "",
+      "date_published": "2024-12-03T00:59:00Z",
+      "url": "https://learningenglish.voanews.com/a/3323577.html",
+      "source_name": "VOA Learning English — Education"
     }
-  ]
+  ],
+  "warnings": []
 }
