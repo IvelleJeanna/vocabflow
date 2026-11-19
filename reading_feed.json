@@ -1,7 +1,19 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-18T02:20:10Z",
+  "generated_at": "2026-11-19T02:19:46Z",
   "items": [
+    {
+      "title": "Voyager 1 Reaches One Light-Day from Earth",
+      "topic": "Space",
+      "summary": "A radio message needs 24 hours to reach the spacecraft.",
+      "date_published": "2026-11-18T23:51:26+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Early Quasar Pair Challenges Black Hole Growth Models",
       "topic": "Space",
@@ -227,18 +239,6 @@
         "1": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Euclid Releases Observations of More Than a Billion Objects",
-      "topic": "Science",
-      "summary": "Scientists can use the new data to build a map.",
-      "date_published": "2026-11-13T13:00:11+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/euclid-billion-objects-foundation-release-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/euclid-billion-objects-foundation-release-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/euclid-billion-objects-foundation-release-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
