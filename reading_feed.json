@@ -1,7 +1,127 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-19T02:19:46Z",
+  "generated_at": "2026-11-20T02:19:47Z",
   "items": [
+    {
+      "title": "Scientific Analysis Changes the Frick’s View of a Sculpture",
+      "topic": "History",
+      "summary": "Experts revise the sculpture’s date.",
+      "date_published": "2026-11-19T19:00:41+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "A Phone-Pouch Study Finds Small Learning Gains",
+      "topic": "Education",
+      "summary": "Locked pouches accompany gains.",
+      "date_published": "2026-11-19T19:00:40+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Paradiso 17 Wins the National Book Award for Fiction",
+      "topic": "Culture",
+      "summary": "Assadi wins a fiction award.",
+      "date_published": "2026-11-19T19:00:39+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Grand Theft Auto VI Launches on Two Console Families",
+      "topic": "Technology",
+      "summary": "Rockstar confirms console release.",
+      "date_published": "2026-11-19T19:00:38+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "NASA Reconstructs Two Stars Merging into One",
+      "topic": "Space",
+      "summary": "A new report explains observations of a distant star system.",
+      "date_published": "2026-11-19T19:00:36+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Satellite Images Show the Atacama Desert in Bloom",
+      "topic": "Environment",
+      "summary": "NASA’s new report shows a colourful change in Chile.",
+      "date_published": "2026-11-19T15:25:59+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Thessaloniki Museum Prepares First Display of Ancient Paintings",
+      "topic": "Culture",
+      "summary": "Six stones found in 1924 are due to go on display.",
+      "date_published": "2026-11-19T15:25:58+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Alcaraz Reaches ATP Finals Semi-Finals in Turin",
+      "topic": "Sport",
+      "summary": "His win came before the result that confirmed his place.",
+      "date_published": "2026-11-19T15:25:57+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "YouTube Adds Estimated TV Co-Viewers to Public Counts",
+      "topic": "Technology",
+      "summary": "Public counts now include estimates of people sharing a television.",
+      "date_published": "2026-11-19T15:25:56+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "NASA Finds Ancient Ice Clues in Space Dust",
+      "topic": "Space",
+      "summary": "Scientists studied twelve grains collected above Earth.",
+      "date_published": "2026-11-19T15:25:55+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Voyager 1 Reaches One Light-Day from Earth",
       "topic": "Space",
@@ -119,126 +239,6 @@
         "1": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "U.S. Flights Resume After a Nationwide Ground Stop",
-      "topic": "World",
-      "summary": "A pause ended, but travel problems remained.",
-      "date_published": "2026-11-14T13:00:14+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/faa-departures-resume-after-nationwide-stop-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/faa-departures-resume-after-nationwide-stop-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/faa-departures-resume-after-nationwide-stop-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Hubble’s Bent-Light Images Prepare the Way for Roman",
-      "topic": "Science",
-      "summary": "Different telescopes provide different views.",
-      "date_published": "2026-11-13T19:00:09+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/hubble-gravitational-lens-gallery-roman-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/hubble-gravitational-lens-gallery-roman-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/hubble-gravitational-lens-gallery-roman-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Flexible Robots Grip Objects and Connect Together",
-      "topic": "Technology",
-      "summary": "A small demonstration does not show every future ability.",
-      "date_published": "2026-11-13T19:00:08+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/colorado-state-flexible-robots-claws-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/colorado-state-flexible-robots-claws-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/colorado-state-flexible-robots-claws-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Satellite Images Highlight a Mangrove Comeback",
-      "topic": "Environment",
-      "summary": "A global gain can still include local losses.",
-      "date_published": "2026-11-13T19:00:06+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/landsat-mangrove-recovery-feature-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/landsat-mangrove-recovery-feature-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/landsat-mangrove-recovery-feature-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Six Early Eminem Songs Return in Infinite EP",
-      "topic": "Culture",
-      "summary": "Digital and physical releases happen at different times.",
-      "date_published": "2026-11-13T19:00:05+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/eminem-infinite-ep-thirtieth-anniversary-2026/level-1/",
-        "2": "https://newsbylevels.com/news/eminem-infinite-ep-thirtieth-anniversary-2026/level-2/",
-        "3": "https://newsbylevels.com/news/eminem-infinite-ep-thirtieth-anniversary-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Resident Evil Requiem Wins the Top Golden Joystick Prize",
-      "topic": "Culture",
-      "summary": "The top prize and the number of awards are different measures.",
-      "date_published": "2026-11-13T19:00:04+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/resident-evil-requiem-four-prizes-golden-joystick-2026/level-1/",
-        "2": "https://newsbylevels.com/news/resident-evil-requiem-four-prizes-golden-joystick-2026/level-2/",
-        "3": "https://newsbylevels.com/news/resident-evil-requiem-four-prizes-golden-joystick-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Shipwreck Finds Reveal Clues to Denmark’s Slave Trade",
-      "topic": "World",
-      "summary": "Personal objects and trading objects tell different parts of its history.",
-      "date_published": "2026-11-13T13:00:16+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/havmanden-shoe-manilla-shipwreck-find-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/havmanden-shoe-manilla-shipwreck-find-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/havmanden-shoe-manilla-shipwreck-find-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Google Launches an AI Tool for Choosing Between Given Options",
-      "topic": "Technology",
-      "summary": "The tool chooses from options that a developer provides.",
-      "date_published": "2026-11-13T13:00:14+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/google-gemini-decisions-api-launch-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/google-gemini-decisions-api-launch-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/google-gemini-decisions-api-launch-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Pegula Saves Match Point to Reach WTA Finals Semifinals",
-      "topic": "Sport",
-      "summary": "The match result also affected another player.",
-      "date_published": "2026-11-13T13:00:13+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/pegula-noskova-match-point-wta-finals-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/pegula-noskova-match-point-wta-finals-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/pegula-noskova-match-point-wta-finals-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Rosalía Wins Album of the Year at the Latin Grammys",
-      "topic": "Culture",
-      "summary": "Different awards recognise different musical works.",
-      "date_published": "2026-11-13T13:00:12+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/rosalia-lux-latin-grammy-album-year-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
