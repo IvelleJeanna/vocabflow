@@ -1,7 +1,127 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-20T02:19:47Z",
+  "generated_at": "2026-11-21T02:16:31Z",
   "items": [
+    {
+      "title": "Marrakech Festival Sets Opening Gala for Mona",
+      "topic": "Culture",
+      "summary": "The first evening is due to feature Mona.",
+      "date_published": "2026-11-20T19:13:37+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "BepiColombo Prepares to Orbit Mercury",
+      "topic": "Science",
+      "summary": "They are due to start going around the planet on Saturday.",
+      "date_published": "2026-11-20T19:13:35+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Memphis Beats Golden State by 28 Points",
+      "topic": "Sports",
+      "summary": "Jaylen Wells scores 22 in the win.",
+      "date_published": "2026-11-20T19:13:33+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/memphis-grizzlies-warriors-fifth-win-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/memphis-grizzlies-warriors-fifth-win-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/memphis-grizzlies-warriors-fifth-win-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "EU and UK Agree on a Youth Stay Programme",
+      "topic": "World",
+      "summary": "Young people could live abroad for up to three years.",
+      "date_published": "2026-11-20T19:13:32+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Fiona the Hippo Dies at Cincinnati Zoo",
+      "topic": "Science",
+      "summary": "Fiona swallowed a hat that fell into her home.",
+      "date_published": "2026-11-20T19:13:29+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Old Space Data Reveals Pulsar",
+      "topic": "Space",
+      "summary": "A computer method helped.",
+      "date_published": "2026-11-20T13:00:58+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Hunger Games Prequel Due in North America",
+      "topic": "Culture",
+      "summary": "Haymitch’s earlier story.",
+      "date_published": "2026-11-20T13:00:57+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Qatar Scores Twice Late to Win U-17 World Cup Opener",
+      "topic": "Sport",
+      "summary": "A 2-0 opening victory over Panama.",
+      "date_published": "2026-11-20T13:00:56+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Anthropic Begins Trading",
+      "topic": "Technology",
+      "summary": "Nasdaq debut.",
+      "date_published": "2026-11-20T13:00:55+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Homo erectus in China’s Rainforest",
+      "topic": "Science",
+      "summary": "Teeth reveal ancient forest life.",
+      "date_published": "2026-11-20T13:00:54+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Scientific Analysis Changes the Frick’s View of a Sculpture",
       "topic": "History",
@@ -119,126 +239,6 @@
         "1": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Voyager 1 Reaches One Light-Day from Earth",
-      "topic": "Space",
-      "summary": "A radio message needs 24 hours to reach the spacecraft.",
-      "date_published": "2026-11-18T23:51:26+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/voyager-one-light-day-earth-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Early Quasar Pair Challenges Black Hole Growth Models",
-      "topic": "Space",
-      "summary": "Their light shows a much younger universe.",
-      "date_published": "2026-11-14T19:00:13+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/webb-gemini-compact-quasar-pair-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/webb-gemini-compact-quasar-pair-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/webb-gemini-compact-quasar-pair-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "A $450 Printer Builds Tall Living Structures",
-      "topic": "Science",
-      "summary": "A gel supports the shapes as they are printed.",
-      "date_published": "2026-11-14T19:00:12+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/low-cost-bioprinter-living-cells-rochester-2026/level-1/",
-        "2": "https://newsbylevels.com/news/low-cost-bioprinter-living-cells-rochester-2026/level-2/",
-        "3": "https://newsbylevels.com/news/low-cost-bioprinter-living-cells-rochester-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Assunta Scutto Wins Zagreb Judo Gold",
-      "topic": "Sport",
-      "summary": "She beats Galiya Tynbayeva in the final.",
-      "date_published": "2026-11-14T19:00:11+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/assunta-scutto-zagreb-grand-prix-gold-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/assunta-scutto-zagreb-grand-prix-gold-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/assunta-scutto-zagreb-grand-prix-gold-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Rubik’s Cube Production Returns to Hungary",
-      "topic": "Culture",
-      "summary": "A new production line uses robots.",
-      "date_published": "2026-11-14T19:00:10+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/rubik-cube-robotic-production-hungary-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/rubik-cube-robotic-production-hungary-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/rubik-cube-robotic-production-hungary-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Microsoft Says Services Are Restored After Global Outage",
-      "topic": "Technology",
-      "summary": "Email and other tools return after a long interruption.",
-      "date_published": "2026-11-14T19:00:09+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/microsoft-restores-outlook-teams-services-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/microsoft-restores-outlook-teams-services-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/microsoft-restores-outlook-teams-services-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Darth Vader Lightsaber Sells for $4.875 Million",
-      "topic": "Culture",
-      "summary": "One item is different from the whole sale.",
-      "date_published": "2026-11-14T13:00:18+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/vader-lightsaber-heritage-auction-record-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/vader-lightsaber-heritage-auction-record-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/vader-lightsaber-heritage-auction-record-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Water-Based Battery Chemistry Stores More Energy in Iodine",
-      "topic": "Technology",
-      "summary": "The next step is a larger test.",
-      "date_published": "2026-11-14T13:00:17+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/ucl-water-battery-iodine-electron-transfer-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/ucl-water-battery-iodine-electron-transfer-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/ucl-water-battery-iodine-electron-transfer-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Svitolina Beats Sabalenka to Reach WTA Finals Semifinals",
-      "topic": "Sport",
-      "summary": "Two wins follow an opening loss.",
-      "date_published": "2026-11-14T13:00:16+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/svitolina-reaches-wta-semifinals-after-sabalenka-win-2026/level-1/",
-        "2": "https://newsbylevels.com/news/svitolina-reaches-wta-semifinals-after-sabalenka-win-2026/level-2/",
-        "3": "https://newsbylevels.com/news/svitolina-reaches-wta-semifinals-after-sabalenka-win-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Starship Reaches Orbit but Misses the Booster Catch",
-      "topic": "Space",
-      "summary": "A sea landing replaces one planned catch.",
-      "date_published": "2026-11-14T13:00:15+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/starship-flight15-booster-sea-landing-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
