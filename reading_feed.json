@@ -1,7 +1,127 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-21T02:16:31Z",
+  "generated_at": "2026-11-22T02:17:35Z",
   "items": [
+    {
+      "title": "Royal Academy Revisits Peggy Guggenheim’s First Gallery",
+      "topic": "Culture",
+      "summary": "The show starts this weekend at the Royal Academy of Arts.",
+      "date_published": "2026-11-21T19:11:21+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Hocke and Kunkel Win Finlandia Trophy Pairs",
+      "topic": "Sport",
+      "summary": "Annika Hocke and Robert Kunkel finished first overall in Helsinki.",
+      "date_published": "2026-11-21T19:11:20+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Two Tiny Marine Species Identified on an Atlantic Seamount",
+      "topic": "Science",
+      "summary": "Scientists recognised two new kinds of small sea animal.",
+      "date_published": "2026-11-21T19:11:19+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "MIT Tests a Tiny Device That Stores Data and Directs Signals",
+      "topic": "Technology",
+      "summary": "MIT tested a small device that works in the cold.",
+      "date_published": "2026-11-21T19:11:18+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Climate Talks in Antalya Continue Past Planned End",
+      "topic": "World",
+      "summary": "People from many countries kept talking in Antalya.",
+      "date_published": "2026-11-21T19:11:17+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Abu Dhabi Museum Prepares to Name a T. Rex and a Blue Whale",
+      "topic": "Culture",
+      "summary": "The public sent in ideas for a dinosaur and a whale.",
+      "date_published": "2026-11-21T14:02:02+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Vatican Raises a Silver Fir in St. Peter’s Square",
+      "topic": "Culture",
+      "summary": "The lights will be turned on in December.",
+      "date_published": "2026-11-21T14:02:00+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Dragon Leaves the Space Station Carrying Research Cargo",
+      "topic": "Science",
+      "summary": "The craft is bringing research materials back to Earth.",
+      "date_published": "2026-11-21T14:01:59+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Magnitude 6.7 Earthquake Shakes Central Peru",
+      "topic": "Science",
+      "summary": "Teams are checking the damage after an earthquake near Junín.",
+      "date_published": "2026-11-21T14:01:58+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Verstappen Gets Las Vegas Pole After Antonelli Penalty",
+      "topic": "Sport",
+      "summary": "The fastest driver will start sixth.",
+      "date_published": "2026-11-21T14:01:57+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Marrakech Festival Sets Opening Gala for Mona",
       "topic": "Culture",
@@ -119,126 +239,6 @@
         "1": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Scientific Analysis Changes the Frick’s View of a Sculpture",
-      "topic": "History",
-      "summary": "Experts revise the sculpture’s date.",
-      "date_published": "2026-11-19T19:00:41+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/frick-della-robbia-relief-reattribution-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "A Phone-Pouch Study Finds Small Learning Gains",
-      "topic": "Education",
-      "summary": "Locked pouches accompany gains.",
-      "date_published": "2026-11-19T19:00:40+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/school-phone-pouches-achievement-study-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Paradiso 17 Wins the National Book Award for Fiction",
-      "topic": "Culture",
-      "summary": "Assadi wins a fiction award.",
-      "date_published": "2026-11-19T19:00:39+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/assadi-paradiso17-national-book-award-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Grand Theft Auto VI Launches on Two Console Families",
-      "topic": "Technology",
-      "summary": "Rockstar confirms console release.",
-      "date_published": "2026-11-19T19:00:38+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/grand-theft-auto-vi-console-launch-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "NASA Reconstructs Two Stars Merging into One",
-      "topic": "Space",
-      "summary": "A new report explains observations of a distant star system.",
-      "date_published": "2026-11-19T19:00:36+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/bao-star-merger-webb-reconstruction-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Satellite Images Show the Atacama Desert in Bloom",
-      "topic": "Environment",
-      "summary": "NASA’s new report shows a colourful change in Chile.",
-      "date_published": "2026-11-19T15:25:59+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/atacama-desert-bloom-satellite-images-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Thessaloniki Museum Prepares First Display of Ancient Paintings",
-      "topic": "Culture",
-      "summary": "Six stones found in 1924 are due to go on display.",
-      "date_published": "2026-11-19T15:25:58+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/thessaloniki-six-painted-stones-exhibition-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Alcaraz Reaches ATP Finals Semi-Finals in Turin",
-      "topic": "Sport",
-      "summary": "His win came before the result that confirmed his place.",
-      "date_published": "2026-11-19T15:25:57+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/alcaraz-medvedev-turin-semifinals-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "YouTube Adds Estimated TV Co-Viewers to Public Counts",
-      "topic": "Technology",
-      "summary": "Public counts now include estimates of people sharing a television.",
-      "date_published": "2026-11-19T15:25:56+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/youtube-tv-co-viewers-public-counts-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "NASA Finds Ancient Ice Clues in Space Dust",
-      "topic": "Space",
-      "summary": "Scientists studied twelve grains collected above Earth.",
-      "date_published": "2026-11-19T15:25:55+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/space-dust-kuiper-belt-ancient-ice-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
