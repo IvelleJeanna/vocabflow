@@ -1,7 +1,43 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-22T02:17:35Z",
+  "generated_at": "2026-11-23T02:22:17Z",
   "items": [
+    {
+      "title": "Leeds Come From Behind to Beat Chelsea 4–1",
+      "topic": "Sports",
+      "summary": "Chelsea scored first, but Leeds won the match.",
+      "date_published": "2026-11-22T19:01:42+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "COP31 Fails to Reach a Main Climate Deal",
+      "topic": "World",
+      "summary": "Countries could not agree on the main plan in Antalya.",
+      "date_published": "2026-11-22T19:01:41+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Verstappen Wins Las Vegas Grand Prix",
+      "topic": "Sports",
+      "summary": "Lando Norris comes second in a close race.",
+      "date_published": "2026-11-22T14:19:12+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Royal Academy Revisits Peggy Guggenheim’s First Gallery",
       "topic": "Culture",
@@ -203,42 +239,6 @@
         "1": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Qatar Scores Twice Late to Win U-17 World Cup Opener",
-      "topic": "Sport",
-      "summary": "A 2-0 opening victory over Panama.",
-      "date_published": "2026-11-20T13:00:56+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/qatar-panama-late-goals-u17-world-cup-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Anthropic Begins Trading",
-      "topic": "Technology",
-      "summary": "Nasdaq debut.",
-      "date_published": "2026-11-20T13:00:55+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/anthropic-first-day-nasdaq-trading-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Homo erectus in China’s Rainforest",
-      "topic": "Science",
-      "summary": "Teeth reveal ancient forest life.",
-      "date_published": "2026-11-20T13:00:54+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/homo-erectus-rainforest-teeth-china-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
