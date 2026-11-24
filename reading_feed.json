@@ -1,7 +1,19 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-23T02:22:17Z",
+  "generated_at": "2026-11-24T02:23:12Z",
   "items": [
+    {
+      "title": "CrowdStrike Agrees to Buy Zscaler in a Share Deal",
+      "topic": "Technology",
+      "summary": "The two companies help protect computers and networks.",
+      "date_published": "2026-11-23T19:00:04+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Leeds Come From Behind to Beat Chelsea 4–1",
       "topic": "Sports",
@@ -227,18 +239,6 @@
         "1": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Hunger Games Prequel Due in North America",
-      "topic": "Culture",
-      "summary": "Haymitch’s earlier story.",
-      "date_published": "2026-11-20T13:00:57+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/hunger-games-sunrise-reaping-north-america-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
