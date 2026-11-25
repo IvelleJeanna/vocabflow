@@ -1,7 +1,31 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-24T02:23:12Z",
+  "generated_at": "2026-11-25T02:25:00Z",
   "items": [
+    {
+      "title": "Rescuers Bring Three Sheep to Safety in Iceland",
+      "topic": "World",
+      "summary": "Two young sheep rode in a small boat.",
+      "date_published": "2026-11-24T21:05:22+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/iceland-rescuers-kayak-save-three-sheep-hamarsa-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/iceland-rescuers-kayak-save-three-sheep-hamarsa-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/iceland-rescuers-kayak-save-three-sheep-hamarsa-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "FIFA Names Hosts for the 2031 and 2035 Women’s World Cups",
+      "topic": "Sport",
+      "summary": "The 2031 and 2035 games will take place in different countries.",
+      "date_published": "2026-11-24T13:05:44+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "CrowdStrike Agrees to Buy Zscaler in a Share Deal",
       "topic": "Technology",
@@ -215,30 +239,6 @@
         "1": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/eu-uk-youth-experience-summit-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Fiona the Hippo Dies at Cincinnati Zoo",
-      "topic": "Science",
-      "summary": "Fiona swallowed a hat that fell into her home.",
-      "date_published": "2026-11-20T19:13:29+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/fiona-hippo-cincinnati-zoo-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Old Space Data Reveals Pulsar",
-      "topic": "Space",
-      "summary": "A computer method helped.",
-      "date_published": "2026-11-20T13:00:58+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/fermi-pulsar-cryptography-algorithm-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
