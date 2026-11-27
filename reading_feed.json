@@ -1,7 +1,79 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-26T02:23:50Z",
+  "generated_at": "2026-11-27T02:24:45Z",
   "items": [
+    {
+      "title": "Tate Liverpool Sets an Autumn 2027 Reopening",
+      "topic": "Culture",
+      "summary": "The art gallery will return with a Surrealism show.",
+      "date_published": "2026-11-26T19:08:08+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/tate-liverpool-reopening-surrealism-autumn-2027-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/tate-liverpool-reopening-surrealism-autumn-2027-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/tate-liverpool-reopening-surrealism-autumn-2027-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Waterstones Names London Falling Its Book of the Year",
+      "topic": "Culture",
+      "summary": "Waterstones chose a book about a real family.",
+      "date_published": "2026-11-26T19:08:07+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/london-falling-waterstones-book-of-the-year-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/london-falling-waterstones-book-of-the-year-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/london-falling-waterstones-book-of-the-year-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Met Office Data Now Powers BBC Weather Forecasts",
+      "topic": "World",
+      "summary": "The weather partnership started on November 26.",
+      "date_published": "2026-11-26T19:08:05+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/met-office-bbc-weather-partnership-launch-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/met-office-bbc-weather-partnership-launch-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/met-office-bbc-weather-partnership-launch-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Colorado State Beats Clemson With the Last Shot in Maui",
+      "topic": "Sports",
+      "summary": "Jojo McIver scores just as time runs out.",
+      "date_published": "2026-11-26T19:04:38+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/mciver-colorado-state-clemson-maui-buzzer-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/mciver-colorado-state-clemson-maui-buzzer-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/mciver-colorado-state-clemson-maui-buzzer-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Hera Images Reveal a Wide Crater on Dimorphos",
+      "topic": "Science",
+      "summary": "The crater stretches across one side of Dimorphos.",
+      "date_published": "2026-11-26T19:04:36+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/hera-dimorphos-dart-impact-crater-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/hera-dimorphos-dart-impact-crater-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/hera-dimorphos-dart-impact-crater-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "New York Moves Macy’s Thanksgiving Parade to Saturday",
+      "topic": "Culture",
+      "summary": "A storm is expected on Thursday.",
+      "date_published": "2026-11-26T13:01:27+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/macys-thanksgiving-parade-moved-to-saturday-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/macys-thanksgiving-parade-moved-to-saturday-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/macys-thanksgiving-parade-moved-to-saturday-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Pakistani Astronaut Zeeshan Ali Enters China’s Tiangong Station",
       "topic": "World",
@@ -167,78 +239,6 @@
         "1": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Vatican Raises a Silver Fir in St. Peter’s Square",
-      "topic": "Culture",
-      "summary": "The lights will be turned on in December.",
-      "date_published": "2026-11-21T14:02:00+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/vatican-saint-peters-christmas-tree-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Dragon Leaves the Space Station Carrying Research Cargo",
-      "topic": "Science",
-      "summary": "The craft is bringing research materials back to Earth.",
-      "date_published": "2026-11-21T14:01:59+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/dragon-crs35-leaves-iss-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Magnitude 6.7 Earthquake Shakes Central Peru",
-      "topic": "Science",
-      "summary": "Teams are checking the damage after an earthquake near Junín.",
-      "date_published": "2026-11-21T14:01:58+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/central-peru-junin-earthquake-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Verstappen Gets Las Vegas Pole After Antonelli Penalty",
-      "topic": "Sport",
-      "summary": "The fastest driver will start sixth.",
-      "date_published": "2026-11-21T14:01:57+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/antonelli-verstappen-las-vegas-grid-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Marrakech Festival Sets Opening Gala for Mona",
-      "topic": "Culture",
-      "summary": "The first evening is due to feature Mona.",
-      "date_published": "2026-11-20T19:13:37+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/marrakech-film-festival-mona-opening-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "BepiColombo Prepares to Orbit Mercury",
-      "topic": "Science",
-      "summary": "They are due to start going around the planet on Saturday.",
-      "date_published": "2026-11-20T19:13:35+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/bepicolombo-mercury-orbit-approach-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
