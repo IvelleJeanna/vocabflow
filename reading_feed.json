@@ -1,7 +1,127 @@
 {
   "source": "News by Levels public API and VOA Learning English RSS feeds",
-  "generated_at": "2026-11-27T02:24:45Z",
+  "generated_at": "2026-11-28T02:21:28Z",
   "items": [
+    {
+      "title": "Zelenskyy Asks US to Put More Pressure on Putin",
+      "topic": "World",
+      "summary": "Volodymyr Zelenskyy spoke to the BBC.",
+      "date_published": "2026-11-27T21:04:11+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/zelenskyy-calls-us-pressure-putin-bbc-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/zelenskyy-calls-us-pressure-putin-bbc-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/zelenskyy-calls-us-pressure-putin-bbc-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "London Museum Prepares to Open in an Old Market",
+      "topic": "Culture",
+      "summary": "The museum plans to open on Saturday.",
+      "date_published": "2026-11-27T21:04:09+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/london-museum-smithfield-opening-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/london-museum-smithfield-opening-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/london-museum-smithfield-opening-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Birds Respond More to Calls From Different Species",
+      "topic": "Science",
+      "summary": "Scientists played bird calls in a study in China.",
+      "date_published": "2026-11-27T21:04:07+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/bird-species-diversity-predator-calls-study-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/bird-species-diversity-predator-calls-study-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/bird-species-diversity-predator-calls-study-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Antarctic Deep-Sea Worm Named After Dolly Parton",
+      "topic": "Science",
+      "summary": "Scientists named a small sea animal after the singer.",
+      "date_published": "2026-11-27T21:04:06+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/antarctic-deep-sea-worm-dolly-parton-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/antarctic-deep-sea-worm-dolly-parton-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/antarctic-deep-sea-worm-dolly-parton-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Japan Park Confirms Rare Penguin Chick Was Born Through Assisted Breeding",
+      "topic": "Environment",
+      "summary": "A test has shown how the young penguin was born.",
+      "date_published": "2026-11-27T21:04:04+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/japan-northern-rockhopper-penguin-assisted-breeding-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/japan-northern-rockhopper-penguin-assisted-breeding-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/japan-northern-rockhopper-penguin-assisted-breeding-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Los Angeles Schools Suspend Google Search AI Summaries",
+      "topic": "Technology",
+      "summary": "The change affects school devices.",
+      "date_published": "2026-11-27T13:30:45+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/los-angeles-school-district-blocks-google-ai-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/los-angeles-school-district-blocks-google-ai-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/los-angeles-school-district-blocks-google-ai-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Black Friday Arrives After Weeks of Earlier Deals",
+      "topic": "Business",
+      "summary": "Some shoppers began buying before Friday.",
+      "date_published": "2026-11-27T13:30:43+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/black-friday-early-deals-ai-shopping-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/black-friday-early-deals-ai-shopping-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/black-friday-early-deals-ai-shopping-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Chicago Bears Beat Detroit Lions With Three Seconds Left",
+      "topic": "Sports",
+      "summary": "Chicago beat Detroit 39–35.",
+      "date_published": "2026-11-27T13:30:42+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/chicago-bears-last-seconds-lions-thanksgiving-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/chicago-bears-last-seconds-lions-thanksgiving-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/chicago-bears-last-seconds-lions-thanksgiving-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "Euclid Finds a Record-Distant Quasar from the Early Universe",
+      "topic": "Science",
+      "summary": "Its light comes from the early universe.",
+      "date_published": "2026-11-27T13:30:40+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/euclid-record-distant-quasar-j1504-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/euclid-record-distant-quasar-j1504-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/euclid-record-distant-quasar-j1504-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
+    {
+      "title": "New Zealand's Final Election Count Leaves No Majority",
+      "topic": "World",
+      "summary": "The final election results are out.",
+      "date_published": "2026-11-27T13:30:39+03:00",
+      "reading_urls": {
+        "1": "https://newsbylevels.com/news/new-zealand-election-final-count-no-majority-november-2026/level-1/",
+        "2": "https://newsbylevels.com/news/new-zealand-election-final-count-no-majority-november-2026/level-2/",
+        "3": "https://newsbylevels.com/news/new-zealand-election-final-count-no-majority-november-2026/level-3/"
+      },
+      "source_name": "News by Levels"
+    },
     {
       "title": "Tate Liverpool Sets an Autumn 2027 Reopening",
       "topic": "Culture",
@@ -119,126 +239,6 @@
         "1": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-1/",
         "2": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-2/",
         "3": "https://newsbylevels.com/news/fifa-womens-world-cup-hosts-2031-2035-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "CrowdStrike Agrees to Buy Zscaler in a Share Deal",
-      "topic": "Technology",
-      "summary": "The two companies help protect computers and networks.",
-      "date_published": "2026-11-23T19:00:04+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/crowdstrike-agrees-buy-zscaler-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Leeds Come From Behind to Beat Chelsea 4–1",
-      "topic": "Sports",
-      "summary": "Chelsea scored first, but Leeds won the match.",
-      "date_published": "2026-11-22T19:01:42+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/leeds-beat-chelsea-four-one-stamford-bridge-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "COP31 Fails to Reach a Main Climate Deal",
-      "topic": "World",
-      "summary": "Countries could not agree on the main plan in Antalya.",
-      "date_published": "2026-11-22T19:01:41+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/cop31-no-main-climate-deal-antalya-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Verstappen Wins Las Vegas Grand Prix",
-      "topic": "Sports",
-      "summary": "Lando Norris comes second in a close race.",
-      "date_published": "2026-11-22T14:19:12+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/verstappen-wins-las-vegas-grand-prix-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Royal Academy Revisits Peggy Guggenheim’s First Gallery",
-      "topic": "Culture",
-      "summary": "The show starts this weekend at the Royal Academy of Arts.",
-      "date_published": "2026-11-21T19:11:21+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/peggy-guggenheim-royal-academy-london-gallery-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Hocke and Kunkel Win Finlandia Trophy Pairs",
-      "topic": "Sport",
-      "summary": "Annika Hocke and Robert Kunkel finished first overall in Helsinki.",
-      "date_published": "2026-11-21T19:11:20+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/finlandia-trophy-hocke-kunkel-pairs-gold-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Two Tiny Marine Species Identified on an Atlantic Seamount",
-      "topic": "Science",
-      "summary": "Scientists recognised two new kinds of small sea animal.",
-      "date_published": "2026-11-21T19:11:19+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/senghor-seamount-two-marine-tardigrades-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "MIT Tests a Tiny Device That Stores Data and Directs Signals",
-      "topic": "Technology",
-      "summary": "MIT tested a small device that works in the cold.",
-      "date_published": "2026-11-21T19:11:18+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/mit-magnetic-superconducting-memory-device-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Climate Talks in Antalya Continue Past Planned End",
-      "topic": "World",
-      "summary": "People from many countries kept talking in Antalya.",
-      "date_published": "2026-11-21T19:11:17+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/cop31-antalya-talks-extra-day-november-2026/level-3/"
-      },
-      "source_name": "News by Levels"
-    },
-    {
-      "title": "Abu Dhabi Museum Prepares to Name a T. Rex and a Blue Whale",
-      "topic": "Culture",
-      "summary": "The public sent in ideas for a dinosaur and a whale.",
-      "date_published": "2026-11-21T14:02:02+03:00",
-      "reading_urls": {
-        "1": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-1/",
-        "2": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-2/",
-        "3": "https://newsbylevels.com/news/abu-dhabi-museum-names-two-giants-november-2026/level-3/"
       },
       "source_name": "News by Levels"
     },
